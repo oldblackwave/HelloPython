@@ -1,0 +1,8 @@
+print(5+9)
+print(2*10)
+print(5/3)
+print(round(5/3))
+print(5//3)
+print(5%3)
+print(5**2)
+print(15*2+25/4-2)
