@@ -1,3 +1,4 @@
+#Write a new file call labbit.jpg
 bufferSize = 100000
 input = open('rabbit.jpg','rb')
 output = open('labbit.jpg','wb')
